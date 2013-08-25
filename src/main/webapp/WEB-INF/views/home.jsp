@@ -4,6 +4,6 @@
 <head>
 </head>
 <body>
-HOME　
+home page
 </body>
 </html>
