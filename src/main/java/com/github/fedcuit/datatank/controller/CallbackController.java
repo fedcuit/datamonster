@@ -11,7 +11,7 @@ import static org.springframework.web.bind.annotation.RequestMethod.POST;
 @Controller
 public class CallbackController {
 
-    @RequestMapping(value = "/callback", method = POST, consumes = MediaType.APPLICATION_JSON_VALUE)
+    @RequestMapping(value = "/jinshuju/callback", method = POST, consumes = MediaType.APPLICATION_JSON_VALUE)
     public
     @ResponseBody
     String callback(@RequestBody String formData) {
