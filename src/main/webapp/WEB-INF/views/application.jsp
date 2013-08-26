@@ -4,6 +4,6 @@
     <title></title>
 </head>
 <body>
-
+    Application page.
 </body>
 </html>
