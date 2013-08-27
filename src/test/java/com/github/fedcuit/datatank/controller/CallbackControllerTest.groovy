@@ -1,15 +1,12 @@
 package com.github.fedcuit.datatank.controller
 
-import org.junit.Ignore
 import org.junit.Test
 
 import static org.fest.assertions.api.Assertions.assertThat
 
-
 class CallbackControllerTest {
 
     @Test
-    @Ignore
     void shouldDumpFormDataToFile() {
         def formData = '''
             {
