@@ -2,7 +2,8 @@
 <%@ page session="false" %>
 <html>
 <head>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://bestiejs.github.io/json3/lib/json3.min.js"></script>
     <script type="text/javascript" src="/resources/js/confirmation.js"></script>
 </head>
 <body>

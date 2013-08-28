@@ -1,7 +1,7 @@
 load = function() {
     $.getJSON('/application', function (data) {
-        $('#info').text(data);
+        $('#info').text(JSON.stringify(data));
     });
 };
 
-setTimeout(load, 3000);
+setTimeout(load, 2000);
