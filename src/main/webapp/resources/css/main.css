@@ -63,3 +63,7 @@ img.step {
     position: relative;
     margin-bottom: -60px;
 }
+
+#progress {
+    margin-top: 100px;
+}
