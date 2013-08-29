@@ -1,0 +1,56 @@
+body {
+    background-color: #ededed;
+    font-size: 14px;
+    line-height: 20px;
+}
+h1 {
+    color:#00645f;
+}
+.container {
+    background-color: white;
+    border:1px solid #aaa;
+    border-radius: 15px;
+    padding: 20px 20px 40px 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    width: 940px;
+    margin: auto;
+}
+#content {
+    margin: auto;
+    margin-top: 30;
+}
+#content h2 {
+    color: #00645f;
+}
+#info {
+    border-bottom: 1px solid #00645f;
+}
+#info table td{
+    text-align: center;
+    border: 1px solid #999;
+    padding: 8px 16px;
+}
+#info .info-title {
+    color: #00645f;
+    text-align: right;
+    font-weight: bold;
+}
+#info table {
+    margin-left: 20px;
+    float: right;
+    border: 1px solid #999;
+    border-collapse: collapse;
+}
+#info .summary {
+    clear: both;
+    text-align: right;
+    color:#00645f;
+    padding-top: 20px;
+}
+#info .summary .number{
+    font-size: 22px;
+}
+#info table thead td{
+    background: #00645f;
+    color: white;
+}
