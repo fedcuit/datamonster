@@ -5,9 +5,8 @@ $(function () {
             for (var prop in  entries) {
                 $('.' + prop).text(entries[prop]);
             }
-            $('#summary').fadeIn().show();
+            $('#info').fadeIn().show();
             $('.progress').hide();
-            $('.step1Header').hide();
         });
     };
     $('.bar').progressbar({

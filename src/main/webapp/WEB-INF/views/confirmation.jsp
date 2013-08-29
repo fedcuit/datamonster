@@ -35,8 +35,8 @@
     <h2 class="info-title">Application Summary:</h2>
 
     <h3 class="summary"></h3>
+    <h2>Congratulations, your information has been submitted successfully as above.</h2>
 </div>
-<h2>Congratulations, your information has been submitted successfully as above.</h2>
 
 <div class="progress progress-striped">
     <div class="bar bar-success" aria-valuetransitiongoal="100"></div>
