@@ -3,8 +3,8 @@
 <html>
 <head>
     <link rel="stylesheet" href="/resources/css/bootstrap.min.css"/>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script type="text/javascript" src="http://bestiejs.github.io/json3/lib/json3.min.js"></script>
+    <script type="text/javascript" src="/resources/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/resources/js/json3.min.js"></script>
     <script type="text/javascript" src="/resources/js/bootstrap-progressbar.min.js"></script>
     <script type="text/javascript" src="/resources/js/confirmation.js"></script>
     <style type="text/css">
