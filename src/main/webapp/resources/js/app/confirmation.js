@@ -7,6 +7,7 @@ $(function () {
             }
             $('#summary').fadeIn().show();
             $('.progress').hide();
+            $('.step1Header').hide();
         });
     };
     $('.bar').progressbar({
