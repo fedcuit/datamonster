@@ -13,12 +13,17 @@ h1 {
     padding: 20px 20px 40px 20px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
     width: 940px;
+    min-height: 600px;
     margin: auto;
 }
 #content {
     margin: auto;
     margin-top: 30;
 }
+#summary {
+    display: none;
+}
+
 #content h2 {
     color: #00645f;
 }
@@ -28,7 +33,7 @@ h1 {
 #info table td{
     text-align: center;
     border: 1px solid #999;
-    padding: 8px 16px;
+    padding: 8px 38px;
 }
 #info .info-title {
     color: #00645f;
@@ -53,4 +58,9 @@ h1 {
 #info table thead td{
     background: #00645f;
     color: white;
+}
+
+img.step {
+    position: relative;
+    margin-bottom: -60px;
 }

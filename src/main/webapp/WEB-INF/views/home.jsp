@@ -16,7 +16,7 @@
         <div id="content">
             <img src="/resources/img/suncorp-logo.png">
             <h1>Application for Funeral Insurance</h1>
-            <img src="/resources/img/step1.png">
+            <img src="/resources/img/step1.png" class="step">
             <script src='https://jinshuju.net/f/KdOnhJ/embedded.js?banner=show&height=667'></script>
         </div>
     </div> 	

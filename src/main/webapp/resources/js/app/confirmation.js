@@ -1,7 +1,11 @@
 $(function () {
     var load = function () {
         $.getJSON('/application', function (data) {
-            $('#info').text(JSON.stringify(data)).closest('#congratulation').show();
+            var entries = data.entry;
+            for (var prop in  entries) {
+                $('.' + prop).text(entries[prop]);
+            }
+            $('#summary').fadeIn().show();
             $('.progress').hide();
         });
     };
