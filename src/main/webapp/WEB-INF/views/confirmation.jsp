@@ -3,10 +3,10 @@
 <html>
 <head>
     <link rel="stylesheet" href="/resources/css/bootstrap.min.css"/>
-    <script type="text/javascript" src="/resources/js/jquery.min.js"></script>
-    <script type="text/javascript" src="/resources/js/json3.min.js"></script>
-    <script type="text/javascript" src="/resources/js/bootstrap-progressbar.min.js"></script>
-    <script type="text/javascript" src="/resources/js/confirmation.js"></script>
+    <script type="text/javascript" src="/resources/js/lib/jquery.min.js"></script>
+    <script type="text/javascript" src="/resources/js/lib/json3.min.js"></script>
+    <script type="text/javascript" src="/resources/js/lib/bootstrap-progressbar.min.js"></script>
+    <script type="text/javascript" src="/resources/js/app/confirmation.js"></script>
     <style type="text/css">
         .progress {
             margin: auto;
