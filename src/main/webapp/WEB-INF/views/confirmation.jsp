@@ -13,38 +13,34 @@
     <script type="text/javascript" src="/resources/js/app/confirmation.js"></script>
 </head>
 <body>
-    <div class="container">
-        <div id="summary">
-            <img src="/resources/img/suncorp-logo.png">
-            <h1>Application for Funeral Insurance</h1>
-            <img src="/resources/img/step2.png">
-            <div id="info">
-                <table>
-                    <thead>
-                    <tr>
-                        <td>Date of Birth</td>
-                        <td>Gender</td>
-                        <td>Product</td>
-                        <td>Cover Amount</td>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                        <td class="field_13">2013-08-08</td>
-                        <td class="field_3">Male</td>
-                        <td class="field_4">Fortnightly</td>
-                        <td class="field_5">$6,000,000</td>
-                    </tr>
-                    </tbody>
-                </table> 
-                <h2 class="info-title">Application Summary:</h2>  
-                <h3 class="summary"></h3>
-            </div>
-            <h2>Congratulations, your information has been submitted successfully as above.</h2>
-        </div>
-        <div class="progress progress-striped">
-            <div class="bar bar-success" aria-valuetransitiongoal="100"></div>
-        </div>
-    </div>
+<div id="info">
+    <table>
+        <thead>
+        <tr>
+            <td>Date of Birth</td>
+            <td>Gender</td>
+            <td>Product</td>
+            <td>Cover Amount</td>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td class="field_13">2013-08-08</td>
+            <td class="field_3">Male</td>
+            <td class="field_4">Fortnightly</td>
+            <td class="field_5">$6,000,000</td>
+        </tr>
+        </tbody>
+    </table>
+    <h2 class="info-title">Application Summary:</h2>
+
+    <h3 class="summary"></h3>
+</div>
+<h2>Congratulations, your information has been submitted successfully as above.</h2>
+
+<div class="progress progress-striped">
+    <div class="bar bar-success" aria-valuetransitiongoal="100"></div>
+</div>
+</div>
 </body>
 </html>
