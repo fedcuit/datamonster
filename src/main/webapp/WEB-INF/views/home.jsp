@@ -6,10 +6,6 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="stylesheet" href="/resources/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/resources/css/main.css"/>
-    <script type="text/javascript" src="/resources/js/lib/jquery.min.js"></script>
-    <script type="text/javascript" src="/resources/js/lib/json3.min.js"></script>
-    <script type="text/javascript" src="/resources/js/lib/bootstrap-progressbar.min.js"></script>
-    <script type="text/javascript" src="/resources/js/confirmation.js"></script>
 </head>
 <body>
 <div class="container">
