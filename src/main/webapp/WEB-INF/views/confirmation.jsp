@@ -38,7 +38,7 @@
     <h2>Congratulations, your information has been submitted successfully as above.</h2>
 </div>
 
-<div id="progress" class="progress progress-striped">
+<div id="progress" class="progress progress-striped" style="margin-top: 200px;">
     <div class="bar bar-success" aria-valuetransitiongoal="100"></div>
 </div>
 </div>
